@@ -1,0 +1,6 @@
+{
+  "name": "ArthaLedger — RBI Ledger & Individual AI Tax Optimizer",
+  "description": "Save income and capital gains tax using RBI Account Aggregator financial ledgers and a customized AI tax model calibrated to each individual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
